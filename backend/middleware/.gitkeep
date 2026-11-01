@@ -1,0 +1,2 @@
+// auth middleware will go here in Phase 2
+// e.g. verifyToken, requireAdmin, requireStudent
